@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=6F777D&height=120&section=header&text=JH&#160;🤔&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=6F777D&height=90&section=header&text=ABOUT&#160;JH&#160;🤔&fontSize=30)
 
 ---
  Node.js Express 프레임워크 기반 웹 서버 개발과 AWS를 이용한 배포가 가능하며,
