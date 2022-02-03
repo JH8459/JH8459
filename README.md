@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=6F777D&height=120&section=header&text=JH8459🤔&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=6F777D&height=120&section=header&text=JH&#160;🤔&fontSize=30)
 
 ---
  Node.js Express 프레임워크 기반 웹 서버 개발과 AWS를 이용한 배포가 가능하며,
-RESTful API 구조와 RDBMS 설계에 관심이 많은  백엔드 개발자 **JH8459**입니다.
+RESTful API 구조와 RDBMS 설계에 관심이 많은  백엔드 개발자 **JH**입니다.
 
 ## 🛠 Tech Stack 
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
