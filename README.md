@@ -21,3 +21,5 @@ RESTful API 구조와 RDBMS 설계에 관심이 많은  백엔드 개발자 **JH
 ## 📖 블로그
 
 <a href="https://jh8459.github.io/" target="_blank">JHLog | programing log : http<hi>s://jh8459.github.io</a>
+
+ ![Footer](https://capsule-render.vercel.app/api?type=waving&color=6F777D&height=200&section=footer)
