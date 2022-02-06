@@ -11,7 +11,7 @@
 <img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white"/>
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img alt="Sequelize" src ="https://img.shields.io/badge/Sequelize-52B0E7.svg?&style=for-the-badge&logo=Sequelize&logoColor=white"/>
-<img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+<img alt="Amazon AWS" src ="https://img.shields.io/badge/AmazonAWS-232F3E.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
 
 
 - JavaScript(ES6+)
