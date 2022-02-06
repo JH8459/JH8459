@@ -19,6 +19,7 @@
 - MySQL 데이터베이스 구조 설계
 - Sequelize ORM을 이용한 MVC 패턴 설계
 - Amazon AWS (S3, EC2, RDS) HTTPS 배포 및 배포 자동화
+<br>
 
 ## 📖 블로그
 
