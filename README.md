@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=6F777D&height=110&section=header&text=ABOUT&#160;JH&#160;🤔&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6F777D&height=200&section=header&text=ABOUT&#160;JH&#160;🤔&fontColor=FFFFFF&fontSize=25)
 
 ---
  ### Node.js Express 프레임워크 기반 웹 서버 개발과 AWS를 이용한 배포가 가능하며, RESTful API 구조와 RDBMS 설계에 관심이 많은  백엔드 개발자 JH 입니다.
