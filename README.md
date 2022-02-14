@@ -23,6 +23,13 @@
 
 ## 📖 &#160;Blog
 
-<a href="https://jh8459.github.io/" target="_blank">**JHLog | programing log : http<hi>s://jh8459.github.io**</a>
+<a href="https://jh8459.github.io/" target="_blank">**JHLog | programing log** : http<hi>s://jh8459.github.io</a>
+<br>
+<br>
+ 
+---
 
- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=6F777D&height=200&section=footer)
+[![jh8459's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh8459)](https://github.com/jh8459/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jh8459&layout=compact)](https://github.com/jh8459/github-readme-stats)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=6F777D&height=200&section=footer)
