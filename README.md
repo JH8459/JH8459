@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6F777D&height=200&section=header&text=About&#160;JH&#160;🤔&fontColor=FFFFFF&fontSize=25)
+<a href="https://github.com/JH8459"><img src="https://capsule-render.vercel.app/api?type=waving&color=6F777D&height=200&section=header&text=About&#160;JH&#160;🤔&fontColor=FFFFFF&fontSize=25"/></a>
 
 <div align="center">
 
@@ -41,4 +41,4 @@
  
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=6F777D&height=200&section=footer)
+<a href="https://github.com/JH8459"><img src="https://capsule-render.vercel.app/api?type=waving&color=6F777D&height=200&section=footer"/></a>
