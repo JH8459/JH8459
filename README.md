@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6F777D&height=200&section=header&text=ABOUT&#160;JH&#160;🤔&fontColor=FFFFFF&fontSize=25)
 
+<div align=center>
+ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJH8459&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
+</div>
+
+
 ---
  ### Node.js Express 프레임워크 기반 웹 서버 개발과 AWS를 이용한 배포가 가능하며, RESTful API 구조와 RDBMS 설계에 관심이 많은  백엔드 개발자 JH 입니다.
  <br>
@@ -32,7 +39,6 @@
  <div align="center">
   
 [![jh8459's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh8459)](https://github.com/jh8459/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jh8459&layout=compact)](https://github.com/jh8459/github-readme-stats)
   
  </div>
 
