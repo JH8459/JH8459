@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6F777D&height=200&section=header&text=ABOUT&#160;JH&#160;🤔&fontColor=FFFFFF&fontSize=25)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6F777D&height=200&section=header&fontColor=FFFFFF&fontSize=25)
 
 <div align="center">
   
 <a href="https://suave-lilac-075.notion.site/b1ac3609f8a946c3a1939b5d46211e44?v=cc0f75ec13e54868a33bb57336fb9ee8"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh8459&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
   
   
-  ### JH&#160;🤔
+  ### About&#160;JH&#160;🤔
   
   ---
   
