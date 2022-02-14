@@ -10,13 +10,12 @@
   ---
   
 <a href="https://github.com/JH8459"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJH8459&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a> <a href="https://solved.ac/wjd5588"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wjd5588"/></a>
-  
-
- 
- <br>
+<br>
  
 </div>
-
+<br>
+<br>
+<br>
 
 ---
  ### Node.js Express 프레임워크 기반 웹 서버 개발과 AWS를 이용한 배포가 가능하며, RESTful API 구조와 RDBMS 설계에 관심이 많은  백엔드 개발자 JH 입니다.
