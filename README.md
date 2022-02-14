@@ -1,9 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6F777D&height=200&section=header&text=ABOUT&#160;JH&#160;🤔&fontColor=FFFFFF&fontSize=25)
 
 <div align=center>
- 
+ <div align=center>
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJH8459&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
- 
+  
+ </div>
+ <div align=center>
+  
+  [![jh8459's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh8459)](https://github.com/jh8459/github-readme-stats)
+  
+  </div>
 </div>
 
 
@@ -35,11 +42,5 @@
 <br>
  
 ---
-
- <div align="center">
-  
-[![jh8459's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh8459)](https://github.com/jh8459/github-readme-stats)
-  
- </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=6F777D&height=200&section=footer)
