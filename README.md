@@ -1,17 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6F777D&height=200&section=header&fontColor=FFFFFF&fontSize=25)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6F777D&height=200&section=header&text=About&#160;JH&#160;🤔&fontColor=FFFFFF&fontSize=25)
 
 <div align="center">
   
 <a href="https://github.com/JH8459"><img align="right" src="https://github-readme-stats.vercel.app/api?username=jh8459"/></a>
   
   
-  ### About&#160;JH&#160;🤔
+  ### JH
   
   ---
   
 <a href="https://github.com/JH8459"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJH8459&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a> 
 <a href="https://solved.ac/wjd5588"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wjd5588"/></a>
 <br>
+  
+## 📖 &#160;Blog
+
+<a href="https://jh8459.github.io/" target="_blank">**JHLog | programing log** : http<hi>s://jh8459.github.io</a>
  
 </div>
 <br>
@@ -37,12 +41,6 @@
 - MySQL 데이터베이스 구조 설계
 - Sequelize ORM을 이용한 MVC 패턴 설계
 - Amazon AWS (S3, EC2, RDS) HTTPS 배포 및 배포 자동화
-<br>
-
-## 📖 &#160;Blog
-
-<a href="https://jh8459.github.io/" target="_blank">**JHLog | programing log** : http<hi>s://jh8459.github.io</a>
-<br>
 <br>
  
 ---
