@@ -11,10 +11,9 @@
 <br>
 <br>
   
-📖 &#160;Blog&#160;&#160;&#160; <a href="https://jh8459.github.io/" target="_blank">**JHLog | programing log**</a>
+✍️ &#160;Blog&#160;&#160;&#160; <a href="https://jh8459.github.io/" target="_blank">**JHLog | programing log**</a>
  
 </div>
-<br>
 <br>
 <br>
 
