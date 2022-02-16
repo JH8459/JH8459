@@ -47,11 +47,9 @@
 
 <img src="https://user-images.githubusercontent.com/83164003/154292048-4e1f352a-7538-43fb-9311-41d02a117f20.png" width="150"/>
   
-### [6699]
-  
 **목표와 다짐들을 글로 적고 실천하며 소통하는 동기부여 커뮤니티 ✍️**
 
-*First Project / 2 week / Team 'WeAct' / 2021*
+*6699(First Project) / 2 week / Team 'WeAct' / 2021*
 
 📎 [Project GitHub](https://github.com/codestates/6699)
   
@@ -63,10 +61,9 @@
   
 <img src="https://user-images.githubusercontent.com/83164003/154291813-f0edecf5-7c5e-4bf7-bc18-7695f9dd6c64.png" width="150"/>
   
-### [ALL-CON]
 **콘서트 예매정보부터 친구까지 찾아주는 콘서트 종합 정보 플랫폼  🎟️**
 
-*Final Project / 4 week / Team 'WeAct' / 2022*
+*ALL-CON(Final Project) / 4 week / Team 'WeAct' / 2022*
 
 📎 [Project URL](https://all-con.kr)&#160;&#160;
 📎 [Project GitHub](https://github.com/codestates/ALL-CON)&#160;&#160;
