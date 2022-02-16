@@ -44,30 +44,6 @@
 ## 👨‍💻 &#160;Team Project
 <br>
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/83164003/154292048-4e1f352a-7538-43fb-9311-41d02a117f20.png" width="150"/><br>
-  
-**목표와 다짐들을 글로 적고 실천하며 소통하는 동기부여 커뮤니티 ✍️**
-
-*6699(First Project) / 2 week / Team 'WeAct' / 2021*
-  
-<details>
-<summary>바로가기</summary>
-<div markdown="1">
-<br>
-  
-📎 [GitHub 바로가기](https://github.com/codestates/6699)
-
-</div>
-</details>
-
-
-  
-</div>
-
----
-
-<div align="center">
   
 <img src="https://user-images.githubusercontent.com/83164003/154291813-f0edecf5-7c5e-4bf7-bc18-7695f9dd6c64.png" width="150"/><br>
   
@@ -90,6 +66,30 @@
   
 </div>
 </details>
+  
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/83164003/154292048-4e1f352a-7538-43fb-9311-41d02a117f20.png" width="150"/><br>
+  
+**목표와 다짐들을 글로 적고 실천하며 소통하는 동기부여 커뮤니티 ✍️**
+
+*6699(First Project) / 2 week / Team 'WeAct' / 2021*
+  
+<details>
+<summary>바로가기</summary>
+<div markdown="1">
+<br>
+  
+📎 [GitHub 바로가기](https://github.com/codestates/6699)
+
+</div>
+</details>
+
+
   
 </div>
 
