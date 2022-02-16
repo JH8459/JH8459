@@ -50,8 +50,18 @@
 **목표와 다짐들을 글로 적고 실천하며 소통하는 동기부여 커뮤니티 ✍️**
 
 *6699(First Project) / 2 week / Team 'WeAct' / 2021*
+  
+<details>
+<summary>링크</summary>
+<div markdown="1">
+<br>
+  
+📎 [GitHub 바로가기](https://github.com/codestates/6699)
 
-📎 [Project GitHub](https://github.com/codestates/6699)
+</div>
+</details>
+
+
   
 </div>
 
@@ -64,10 +74,18 @@
 **콘서트 예매정보부터 친구까지 찾아주는 콘서트 종합 정보 플랫폼  🎟️**
 
 *ALL-CON(Final Project) / 4 week / Team 'WeAct' / 2022*
-
-📎 [Project URL](https://all-con.kr)&#160;&#160;
-📎 [Project GitHub](https://github.com/codestates/ALL-CON)&#160;&#160;
-📎 [Project Notion](https://www.notion.so/4-weAct-ALL-CON-c088f77746f245c59a59de4484308f84)&#160;&#160;
+  
+<details>
+<summary>링크</summary>
+<div markdown="1">
+<br>
+  
+📎 [URL 바로가기](https://all-con.kr)  
+📎 [GitHub 바로가기](https://github.com/codestates/ALL-CON)  
+📎 [TeamNotion 바로가기](https://www.notion.so/4-weAct-ALL-CON-c088f77746f245c59a59de4484308f84)  
+  
+</div>
+</details>
   
 </div>
 
