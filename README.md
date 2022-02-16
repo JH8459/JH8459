@@ -42,6 +42,7 @@
 <br>
 
 ## 👨‍💻 &#160;Team Project
+<br>
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/83164003/154292048-4e1f352a-7538-43fb-9311-41d02a117f20.png" width="150"/>
