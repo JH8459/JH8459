@@ -2,10 +2,9 @@
 
 <div align="center">
 
-  
 <a href="https://github.com/JH8459"><img align="right" src="https://github-readme-stats.vercel.app/api?username=jh8459"/></a>
   
-  ## JH 
+## JH 
 <a href="https://github.com/JH8459"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJH8459&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a> 
 <a href="https://solved.ac/wjd5588"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wjd5588"/></a>
 <br>
@@ -40,32 +39,33 @@
 
 ## 👨‍💻 &#160;Team Project
 <div align="center">
-  
-<img src="https://user-images.githubusercontent.com/83164003/154292048-4e1f352a-7538-43fb-9311-41d02a117f20.png" width="200"/>
+
+<img src="https://user-images.githubusercontent.com/83164003/154292048-4e1f352a-7538-43fb-9311-41d02a117f20.png" width="150"/>
   
 ### [6699]
+  
 **목표와 다짐들을 글로 적고 실천하며 소통하는 동기부여 커뮤니티 ✍️**
 
 *First Project / 2 week / Team 'WeAct' / 2021*
 
 📎 [Project GitHub](https://github.com/codestates/6699)
-
+  
 </div>
 
 ---
 
 <div align="center">
   
-<img src="https://user-images.githubusercontent.com/83164003/154291813-f0edecf5-7c5e-4bf7-bc18-7695f9dd6c64.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/83164003/154291813-f0edecf5-7c5e-4bf7-bc18-7695f9dd6c64.png" width="150"/>
   
 ### [ALL-CON]
 **콘서트 예매정보부터 친구까지 찾아주는 콘서트 종합 정보 플랫폼  🎟️**
 
 *Final Project / 4 week / Team 'WeAct' / 2022*
 
-📎 [Project URL](https://all-con.kr)  
-📎 [Project GitHub](https://github.com/codestates/ALL-CON)  
-📎 [Project Notion](https://www.notion.so/4-weAct-ALL-CON-c088f77746f245c59a59de4484308f84)  
+📎 [Project URL](https://all-con.kr)&#160;&#160;
+📎 [Project GitHub](https://github.com/codestates/ALL-CON)&#160;&#160;
+📎 [Project Notion](https://www.notion.so/4-weAct-ALL-CON-c088f77746f245c59a59de4484308f84)&#160;&#160;
   
 </div>
 
