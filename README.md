@@ -39,15 +39,32 @@
 <br>
 
 ## 👨‍💻 &#160;Team Project
-### [6699] 목표와 다짐들을 글로 적고 실천하며 소통하는 동기부여 커뮤니티 ✍️
+<div align="center">
+  
+### [6699]
+**목표와 다짐들을 글로 적고 실천하며 소통하는 동기부여 커뮤니티 ✍️**
+
+*First Project / 2 week / Team 'WeAct' / 2021*
+
+📎 [Project GitHub](https://github.com/codestates/6699)
+
+</div>
+
 ---
-First Project / 2 week / Team 'WeAct' / 2021
 
+<div align="center">
+  
+### [ALL-CON]
+**콘서트 예매정보부터 친구까지 찾아주는 콘서트 종합 정보 플랫폼  🎟️**
 
-### [ALL-CON] 콘서트 예매정보부터 친구까지 찾아주는 콘서트 종합 정보 플랫폼  🎟️
+*Final Project / 4 week / Team 'WeAct' / 2022*
+
+📎 [Project URL](https://all-con.kr)
+📎 [Project GitHub](https://github.com/codestates/ALL-CON)
+📎 [Project Notion](https://www.notion.so/4-weAct-ALL-CON-c088f77746f245c59a59de4484308f84)
+  
+</div>
+
 ---
-Final Project / 4 week / Team 'WeAct' / 2022
-
-<span style="color: #FFCE63;">ALL-CON</span>
 
 <a href="https://github.com/JH8459"><img src="https://capsule-render.vercel.app/api?type=waving&color=6F777D&height=200&section=footer"/></a>
