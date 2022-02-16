@@ -37,7 +37,17 @@
 - Sequelize ORM을 이용한 MVC 패턴 설계
 - Amazon AWS (S3, EC2, RDS) HTTPS 배포 및 배포 자동화
 <br>
- 
+
+## 👨‍💻 &#160;Team Project
+### [6699] 목표와 다짐들을 글로 적고 실천하며 소통하는 동기부여 커뮤니티 ✍️
 ---
+First Project / 2 week / Team 'WeAct' / 2021
+
+
+### [ALL-CON] 콘서트 예매정보부터 친구까지 찾아주는 콘서트 종합 정보 플랫폼  🎟️
+---
+Final Project / 4 week / Team 'WeAct' / 2022
+
+<span style="color: #FFCE63;">ALL-CON</span>
 
 <a href="https://github.com/JH8459"><img src="https://capsule-render.vercel.app/api?type=waving&color=6F777D&height=200&section=footer"/></a>
