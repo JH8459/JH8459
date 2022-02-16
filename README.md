@@ -52,7 +52,7 @@
 *6699(First Project) / 2 week / Team 'WeAct' / 2021*
   
 <details>
-<summary>링크</summary>
+<summary>바로가기</summary>
 <div markdown="1">
 <br>
   
@@ -80,9 +80,11 @@
 <div markdown="1">
 <br>
   
-📎 [URL 바로가기](https://all-con.kr)  
-📎 [GitHub 바로가기](https://github.com/codestates/ALL-CON)  
-📎 [TeamNotion 바로가기](https://www.notion.so/4-weAct-ALL-CON-c088f77746f245c59a59de4484308f84)  
+📎 [URL 바로가기](https://all-con.kr)
+  
+📎 [GitHub 바로가기](https://github.com/codestates/ALL-CON)
+  
+📎 [Notion 바로가기](https://www.notion.so/4-weAct-ALL-CON-c088f77746f245c59a59de4484308f84)  
   
 </div>
 </details>
