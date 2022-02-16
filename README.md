@@ -45,7 +45,7 @@
 <br>
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/83164003/154292048-4e1f352a-7538-43fb-9311-41d02a117f20.png" width="150"/>
+<img src="https://user-images.githubusercontent.com/83164003/154292048-4e1f352a-7538-43fb-9311-41d02a117f20.png" width="150"/><br>
   
 **목표와 다짐들을 글로 적고 실천하며 소통하는 동기부여 커뮤니티 ✍️**
 
@@ -59,7 +59,7 @@
 
 <div align="center">
   
-<img src="https://user-images.githubusercontent.com/83164003/154291813-f0edecf5-7c5e-4bf7-bc18-7695f9dd6c64.png" width="150"/>
+<img src="https://user-images.githubusercontent.com/83164003/154291813-f0edecf5-7c5e-4bf7-bc18-7695f9dd6c64.png" width="150"/><br>
   
 **콘서트 예매정보부터 친구까지 찾아주는 콘서트 종합 정보 플랫폼  🎟️**
 
