@@ -56,13 +56,13 @@
 <div markdown="1">
 <br>
   
-📎 [URL 바로가기](https://all-con.kr)
+📎 [ALL-CON 바로가기](https://all-con.kr)
   
 📎 [GitHub 바로가기](https://github.com/codestates/ALL-CON)
   
 📎 [Blog 바로가기](https://jh8459.github.io/project/22.01.26.Final-Project/)
   
-📎 [Notion 바로가기](https://www.notion.so/4-weAct-ALL-CON-c088f77746f245c59a59de4484308f84)  
+📎 [프로젝트 회고 바로가기](https://jh8459.github.io/retrospect/22.01.25.Retrospect/)  
   
 </div>
 </details>
