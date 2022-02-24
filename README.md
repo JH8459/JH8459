@@ -62,7 +62,7 @@
   
 📎 [Blog 바로가기](https://jh8459.github.io/project/22.01.26.Final-Project/)
   
-📎 [프로젝트 회고 바로가기](https://jh8459.github.io/retrospect/22.01.25.Retrospect/)  
+📎 [Project 회고 바로가기](https://jh8459.github.io/retrospect/22.01.25.Retrospect/)  
   
 </div>
 </details>
