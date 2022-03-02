@@ -73,7 +73,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/83164003/154292048-4e1f352a-7538-43fb-9311-41d02a117f20.png" width="150"/><br>
+<img src="https://user-images.githubusercontent.com/83164003/156319069-09fc20f8-e777-48ee-ab32-f9c194c68f93.png" width="150"/><br>
   
 **목표와 다짐들을 글로 적고 실천하며 소통하는 동기부여 커뮤니티 ✍️**
 
