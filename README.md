@@ -85,6 +85,10 @@
 <br>
   
 📎 [GitHub 바로가기](https://github.com/codestates/6699)
+  
+📎 [Blog 바로가기](https://jh8459.github.io/project/21.12.25.Project/)
+
+📎 [Project 회고 바로가기](https://jh8459.github.io/retrospect/21.12.24.Retrospect/)  
 
 </div>
 </details>
