@@ -10,7 +10,7 @@
 <br>
 <br>
   
-✍️ &#160;Blog&#160;&#160;&#160; <a href="https://jh8459.github.io/" target="_blank">**JHLog | programing log**</a>
+&#160;Blog&#160;&#160;&#160; <a href="https://blog.jh8459.com/" target="_blank">**JHLog : Programing Log 🤔**</a>
  
 </div>
 <br>
@@ -38,62 +38,6 @@
 - Sequelize ORM을 이용한 MVC 패턴 설계
 - Amazon AWS HTTPS 배포 및 배포 자동화
 <br>
-
-## 👨‍💻 &#160;Team Project
-<br>
-<div align="center">
-  
-<img src="https://user-images.githubusercontent.com/83164003/154291813-f0edecf5-7c5e-4bf7-bc18-7695f9dd6c64.png" width="150"/><br>
-  
-**콘서트 예매정보부터 친구까지 찾아주는 콘서트 종합 정보 플랫폼  🎟️**
-
-*ALL-CON(Final Project) / 4 week / Team 'WeAct' / 2022*
-  
-<details>
-<summary>바로가기</summary>
-<div markdown="1">
-<br>
-  
-📎 [ALL-CON 바로가기](https://all-con.kr)
-  
-📎 [GitHub 바로가기](https://github.com/codestates/ALL-CON)
-  
-📎 [Blog 바로가기](https://jh8459.github.io/project/22.01.26.Final-Project/)
-  
-📎 [Project 회고 바로가기](https://jh8459.github.io/retrospect/22.01.25.Retrospect/)  
-  
-</div>
-</details>
-  
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/83164003/156319069-09fc20f8-e777-48ee-ab32-f9c194c68f93.png" width="150"/><br>
-  
-**목표와 다짐들을 글로 적고 실천하며 소통하는 동기부여 커뮤니티 ✍️**
-
-*6699(First Project) / 2 week / Team 'WeAct' / 2021*
-  
-<details>
-<summary>바로가기</summary>
-<div markdown="1">
-<br>
-  
-📎 [GitHub 바로가기](https://github.com/codestates/6699)
-  
-📎 [Blog 바로가기](https://jh8459.github.io/project/21.12.25.Project/)
-
-📎 [Project 회고 바로가기](https://jh8459.github.io/retrospect/21.12.24.Retrospect/)  
-
-</div>
-</details>
-
-
-  
-</div>
 
 ---
 
