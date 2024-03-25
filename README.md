@@ -20,7 +20,7 @@
 <br>
 <div align="center">
   
-### Node.js NestJS / Express 프레임워크 기반 웹 서버 개발과 AWS를 이용한 배포가 가능하며,<br><br>RESTful API 구조와 RDBMS 설계에 관심이 많은 백엔드 개발자 JH 입니다. 
+### Node.js NestJS / Express 프레임워크 기반 웹 서버 개발과 Docker를 이용한 컨테이너 환경 인프라 구축이 가능하며,<br><br>RESTful API 구조와 RDBMS 설계에 관심이 많은 백엔드 개발자 JH 입니다. 
   
 </div>
 <br>
