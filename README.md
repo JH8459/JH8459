@@ -10,11 +10,12 @@
 <br>
 <br>
 
-&#160;Blog&#160;&#160;&#160; <a href="https://blog.jh8459.com/" target="_blank">**JHLog : Programing Log 🤔**</a>
+![PROGRAMMERS-BADGE](https://raw.githubusercontent.com/JH8459/PROGRAMMERS-BADGE/master/static/result_mini.svg)
  
 </div>
 
-![PROGRAMMERS-BADGE](https://raw.githubusercontent.com/JH8459/PROGRAMMERS-BADGE/master/static/result_full.svg)
+&#160;Blog&#160;&#160;&#160; <a href="https://blog.jh8459.com/" target="_blank">**JHLog : Programing Log 🤔**</a>
+
 <br>
 <br>
 
