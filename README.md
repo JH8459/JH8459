@@ -1,24 +1,22 @@
 <a href="https://github.com/JH8459"><img src="https://capsule-render.vercel.app/api?type=waving&color=6F777D&height=200&section=header&text=About&#160;JH&#160;🤔&fontColor=FFFFFF&fontSize=25"/></a>
 
-<div style="display: flex; width: 100%; text-align: center; margin: 20px 0;">
-  <!-- 좌측 50% -->
-  <div style="flex: 1; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-    <h3>JH</h3>
-    <a href="https://github.com/JH8459">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJH8459&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/>
-    </a>
-    <a href="https://solved.ac/wjd5588" target="_blank">
-      <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wjd5588"/>
-    </a>
-    <br>
-    &#160;Blog&#160;&#160;&#160; <a href="https://blog.jh8459.com/" target="_blank"><strong>JHLog : Programing Log 🤔</strong></a>
-  </div>
+<div align="center">
+<a href="https://github.com/JH8459"><img align="right" src="https://github-readme-stats.vercel.app/api?username=jh8459"/></a>
 
-  <!-- 우측 50% -->
-  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/JH8459/PROGRAMMERS-BADGE/master/static/result_full.svg" style="max-width: 100%; height: auto;"/>
-  </div>
-</div>
+### JH
+<a href="https://github.com/JH8459"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJH8459&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a> 
+<a href="https://solved.ac/wjd5588" target="_blank"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wjd5588"/></a>
+<br>
+<br>
+
+&#160;Blog&#160;&#160;&#160; <a href="https://blog.jh8459.com/" target="_blank">**JHLog : Programing Log 🤔**</a>
+
+<br>
+<br>
+
+---
+
+<br>
   
 ### Node.js(NestJS / Express) 웹 서버 개발과 Docker를 이용한 컨테이너 환경 인프라 구축이 가능하며,<br><br>RESTful API 구조와 RDBMS 설계에 관심이 많은 백엔드 개발자 JH 입니다. 
   
