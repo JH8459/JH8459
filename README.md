@@ -1,7 +1,8 @@
 <a href="https://github.com/JH8459"><img src="https://capsule-render.vercel.app/api?type=waving&color=6F777D&height=200&section=header&text=About&#160;JH&#160;🤔&fontColor=FFFFFF&fontSize=25"/></a>
 
 <div align="center">
-<a href="https://github.com/JH8459"><img align="right" src="https://github-readme-stats.vercel.app/api?username=jh8459"/></a>
+
+<img align="right" width="450" height="190" src="https://raw.githubusercontent.com/JH8459/PROGRAMMERS-BADGE/master/static/result_full.svg"/>
 
 ### JH
 <a href="https://github.com/JH8459"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJH8459&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a> 
