@@ -2,17 +2,19 @@
 
 <div align="center">
 
-![PROGRAMMERS-BADGE](https://raw.githubusercontent.com/JH8459/PROGRAMMERS-BADGE/master/static/result_full.svg)
+<a href="https://github.com/JH8459"><img align="right" src="https://github-readme-stats.vercel.app/api?username=jh8459"/></a>
   
 ### JH 
 <a href="https://github.com/JH8459"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJH8459&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a> 
 <a href="https://solved.ac/wjd5588" target="_blank"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wjd5588"/></a>
 <br>
 <br>
-  
+
 &#160;Blog&#160;&#160;&#160; <a href="https://blog.jh8459.com/" target="_blank">**JHLog : Programing Log 🤔**</a>
  
 </div>
+
+![PROGRAMMERS-BADGE](https://raw.githubusercontent.com/JH8459/PROGRAMMERS-BADGE/master/static/result_full.svg)
 <br>
 <br>
 
