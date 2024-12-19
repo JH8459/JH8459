@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img align="right" width="350" height="170" src="https://raw.githubusercontent.com/JH8459/PROGRAMMERS-BADGE/master/static/result.svg"/>
+<img align="right" src="https://raw.githubusercontent.com/JH8459/PROGRAMMERS-BADGE/master/static/result.svg"/>
 
 ### JH
 
