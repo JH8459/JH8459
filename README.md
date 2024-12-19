@@ -25,8 +25,8 @@
 <br>
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="https://raw.githubusercontent.com/JH8459/PROGRAMMERS-BADGE/master/static/result.svg" style="width: 50%;"/>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjd5588" style="width: 50%;"/>
+  <img src="https://raw.githubusercontent.com/JH8459/PROGRAMMERS-BADGE/master/static/result.svg" style="width: 40%;"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjd5588" style="width: 40%;"/>
 </div>
 
 <br>
