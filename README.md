@@ -6,9 +6,6 @@
   
   <a href="https://github.com/JH8459"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJH8459&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a> 
   
-  <br>
-  <br>
-  
   &#160;Blog&#160;&#160;&#160; <a href="https://blog.jh8459.com/" target="_blank">**JHLog : Programing Log 🤔**</a>
   
   <br>
