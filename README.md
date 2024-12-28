@@ -19,7 +19,7 @@
 
 <div align="center">
   <div style="display: flex; justify-content: space-between; width: 100%;">
-    <a href="https://career.programmers.co.kr/pr/kk_ong2233_5240" target="_blank">
+    <a href="https://blog.jh8459.com/2024-12-22-PROJECT" target="_blank">
       <img src="https://raw.githubusercontent.com/JH8459/PROGRAMMERS-BADGE/master/static/result.svg" style="width: 40%;"/>
     </a>
     <a href="https://solved.ac/profile/wjd5588" target="_blank">
