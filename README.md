@@ -43,7 +43,7 @@
 - Github Action을 이용한 CI/CD 파이프라인 구축
 - Amazon AWS
 
-## 📚 &#160;Recently Blog Posts
+## 📚 &#160;Blog Posts
 
 - [AWS Lambda + EventBridge를 사용한 S3 리소스 관리](https://blog.jh8459.com/2025-01-17-TIL/) - 2025/01/17
 - [🤖 프로그래머스 프로필 뱃지 자동 생성 봇](https://blog.jh8459.com/2024-12-22-PROJECT/) - 2024/12/22
