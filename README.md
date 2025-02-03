@@ -45,11 +45,11 @@
 
 ## 📚 &#160;Recently Blog Posts
 
-- [AWS Lambda + EventBridge를 사용한 S3 리소스 관리](https://blog.jh8459.com/2025-01-17-TIL/)
-- [🤖 프로그래머스 프로필 뱃지 자동 생성 봇](https://blog.jh8459.com/2024-12-22-PROJECT/)
-- [JS - Array.prototype.flatMap() 알아보기](https://blog.jh8459.com/2024-12-09-TIL/)
-- [Presigned URL S3 파일 업로드](https://blog.jh8459.com/2024-12-01-TIL/)
-- [AWS Solution Architect Associate (AWS Skill Builder 강의 후기)](https://blog.jh8459.com/2024-11-12-TIL/)
+- [AWS Lambda + EventBridge를 사용한 S3 리소스 관리](https://blog.jh8459.com/2025-01-17-TIL/) - 2025/01/17
+- [🤖 프로그래머스 프로필 뱃지 자동 생성 봇](https://blog.jh8459.com/2024-12-22-PROJECT/) - 2024/12/22
+- [JS - Array.prototype.flatMap() 알아보기](https://blog.jh8459.com/2024-12-09-TIL/) - 2024/12/09
+- [Presigned URL S3 파일 업로드](https://blog.jh8459.com/2024-12-01-TIL/) - 2024/12/01
+- [AWS Solution Architect Associate (AWS Skill Builder 강의 후기)](https://blog.jh8459.com/2024-11-12-TIL/) - 2024/11/12
 <br>
 
 ---
