@@ -7,7 +7,7 @@
   
   <br>
     
-  ### Node.js(NestJS / Express) 기반의 RESTful API 개발과 Docker를 활용한 컨테이너화된 개발 환경 구축이 가능하며, 서비스 아키텍처 및 RDBMS 설계에 관심이 많은 백엔드 개발자입니다.
+  ### Node.js(NestJS / Express) 기반의 RESTful API 개발과 아키텍처 및 RDBMS 설계에 관심이 많은 백엔드 개발자입니다.
   
 </div>
 
