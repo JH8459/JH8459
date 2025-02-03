@@ -1,0 +1,50 @@
+name: cron_action
+
+on:
+  schedule:
+    - cron: '0 15 * * *'
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20.18.0'
+          cache: 'npm'
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+      - run: npm install
+      - run: |
+          touch .env
+          echo RSS_FEED_URL=${{ secrets.RSS_FEED_URL }} >> .env
+          echo SECTION_HEADER=${{ secrets.SECTION_HEADER }} >> .env
+          echo INSERT_MARKER=${{ secrets.INSERT_MARKER }} >> .env
+
+      - name: Start application
+        run: |
+          npm run start &
+          sleep 10
+
+      - name: Commit README
+        run: |
+          git config --local user.name 'BLOG-RSS-PARSER [BOT]'
+          git config --local user.email 'JH8459@example.com'
+          if [ -n "$(git status --porcelain)" ]; then
+            git add README.md
+            git commit -m 'Update README.md by BLOG-RSS-PARSER [BOT]'
+            git push
+          else
+            echo "No changes to commit."
+          fi
+
+      - name: Terminate workflow
+        run: echo "Workflow finished after 10 seconds!"
