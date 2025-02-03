@@ -52,15 +52,11 @@ function updateReadme(filePath, newPosts) {
       content = content.replace(INSERT_MARKER, `\n${SECTION_HEADER}\n\n${newPosts}\n${INSERT_MARKER}`);
     }
 
-    if (updatedContent !== content) {
-      try {
-        writeFileSync(filePath, updatedContent, 'utf8');
-        console.log('✅ README.md 업데이트 완료');
-      } catch (error) {
-        console.error('README.md 파일을 저장하는 중 오류 발생:', error);
-      }
-    } else {
-      console.log('⚠️ 새로운 블로그 포스트가 없습니다. README.md 파일이 업데이트되지 않았습니다.');
+    try {
+      writeFileSync(filePath, content, 'utf8');
+      console.log('✅ README.md 업데이트 완료');
+    } catch (error) {
+      console.error('README.md 파일을 저장하는 중 오류 발생:', error);
     }
   } else {
     console.error('⚠️ README.md에서 삽입할 위치를 찾을 수 없습니다.');
