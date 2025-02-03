@@ -9,6 +9,21 @@ const RSS_FEED_URL = process.env.RSS_FEED_URL || 'https://blog.jh8459.com/rss';
 const SECTION_HEADER = process.env.SECTION_HEADER || '## 📚 &#160;Recently Blog Posts';
 const INSERT_MARKER = process.env.INSERT_MARKER || '<br>\n\n---';
 
+// 날짜 변환 함수: EX "Fri, 17 Jan 2025 00:00:00 GMT" → "2025/01/17"
+function formatPubDate(pubDate) {
+  try {
+    const date = new Date(pubDate);
+    const year = date.getUTCFullYear();
+    const month = String(date.getUTCMonth() + 1).padStart(2, '0'); // 월(1~12)
+    const day = String(date.getUTCDate()).padStart(2, '0'); // 일(01~31)
+
+    return `${year}/${month}/${day}`;
+  } catch (error) {
+    console.error('날짜 변환 중 오류 발생:', error);
+    return ''; // 오류 발생 시 빈 문자열 반환
+  }
+}
+
 // RSS 피드에서 최신 블로그 글 목록을 가져오는 함수
 async function fetchRecentPosts(feedUrl, limit = 5) {
   try {
@@ -17,7 +32,10 @@ async function fetchRecentPosts(feedUrl, limit = 5) {
 
     return feed.items
       .slice(0, limit)
-      .map(({ title, link }) => `- [${title}](${link})`)
+      .map(({ title, link, pubDate }) => {
+        const formattedDate = formatPubDate(pubDate);
+        return `- [${title}](${link}) - ${formattedDate}`;
+      })
       .join('\n');
   } catch (error) {
     console.error('RSS 피드 파싱 중 오류 발생:', error);
