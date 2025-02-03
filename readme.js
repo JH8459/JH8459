@@ -6,7 +6,7 @@ dotenv.config(); // .env 파일 로드
 
 const README_PATH = 'README.md';
 const RSS_FEED_URL = process.env.RSS_FEED_URL || 'https://blog.jh8459.com/rss';
-const SECTION_HEADER = process.env.SECTION_HEADER || '## 📚 &#160;Recently Blog Posts';
+const SECTION_HEADER = process.env.SECTION_HEADER || '## 📚 &#160;Blog Posts';
 const INSERT_MARKER = process.env.INSERT_MARKER || '<br>\n\n---';
 
 // 날짜 변환 함수: EX "Fri, 17 Jan 2025 00:00:00 GMT" → "2025/01/17"
