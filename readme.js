@@ -17,7 +17,7 @@ function formatPubDate(pubDate) {
     const month = String(date.getUTCMonth() + 1).padStart(2, '0'); // 월(1~12)
     const day = String(date.getUTCDate()).padStart(2, '0'); // 일(01~31)
 
-    return `${year}/${month}/${day}`;
+    return `${year}.${month}.${day}`;
   } catch (error) {
     console.error('날짜 변환 중 오류 발생:', error);
     return ''; // 오류 발생 시 빈 문자열 반환
