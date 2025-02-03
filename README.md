@@ -7,7 +7,7 @@
   
   <br>
     
-  ### Node.js(NestJS / Express) 기반의 RESTful API 개발과 아키텍처 및 RDBMS 설계에 관심이 많은 백엔드 개발자입니다.
+  ### Node.js(NestJS / Express) 기반의 RESTful API 개발과<br><br>아키텍처 및 RDBMS 설계에 관심이 많은 백엔드 개발자입니다.
   
 </div>
 
