@@ -33,12 +33,12 @@
 
 <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"> <img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/></center>
 
-- TypeScript / JavaScript
-- NestJS / Express 프레임워크를 이용한 Node.js 웹 서버 개발
-- MySQL 데이터베이스 구조 설계
-- Docker를 이용한 컨테이너 개발 환경 구성
-- Github Action을 이용한 CI/CD 파이프라인 구축
-- Amazon AWS
+- 클린 코드 원칙을 준수하는 TypeScript 및 JavaScript 프로그래밍
+- NestJS / Express 프레임워크를 활용한 RESTful API 및 백엔드 아키텍처 설계 및 구현
+- 정규화 및 성능을 고려한 MySQL 데이터베이스 아키텍처 설계
+- Docker 기반의 컨테이너화된 개발 환경 구축 및 최적화
+- GitHub Actions를 활용한 효율적인 CI/CD 워크플로우 설계 및 운영
+- AWS 기반의 확장성과 신뢰성을 갖춘 클라우드 인프라 설계 및 구축
 
 ## 📚 &#160;Blog Posts
 
