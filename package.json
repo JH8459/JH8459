@@ -1,0 +1,18 @@
+{
+  "name": "blog-rss-parser",
+  "version": "1.0.0",
+  "description": "블로그 RSS를 사용해서 깃허브 프로필에 최신 포스팅을 자동으로 업데이트합니다.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node readme.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "rss-parser": "^3.13.0"
+  }
+}
