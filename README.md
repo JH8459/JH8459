@@ -42,11 +42,11 @@
 
 ## 📚 &#160;Blog Posts
 
+- [프로그래머스 - 조이스틱 (JS)](https://blog.jh8459.com/2025-03-13-TIL/) - 2025.03.13
 - [프로그래머스 - 명예의 전당 (1) (JS)](https://blog.jh8459.com/2025-03-12-TIL/) - 2025.03.12
 - [LeetCode 876번 - Middle of the Linked List (JS)](https://blog.jh8459.com/2025-03-11-TIL/) - 2025.03.11
 - [AWS Solution Architect Associate (SAA-C03) 취득 후기](https://blog.jh8459.com/2025-03-09-RETROSPECT/) - 2025.03.09
 - [Github 프로필 블로그 포스트 자동 업데이트](https://blog.jh8459.com/2025-02-04-PROJECT/) - 2025.02.04
-- [AWS Lambda + EventBridge를 사용한 S3 리소스 관리](https://blog.jh8459.com/2025-01-17-TIL/) - 2025.01.17
 <br>
 
 ---
