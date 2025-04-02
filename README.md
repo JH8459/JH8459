@@ -42,11 +42,11 @@
 
 ## 📚 &#160;Blog Posts
 
+- [EC2에서 NAS로, 개인 서버 CI/CD 자동화](https://blog.jh8459.com/2025-03-31-TIL/) - 2025.03.31
 - [Nest CLI 뜯어보기 (nest start)](https://blog.jh8459.com/2025-03-19-TIL/) - 2025.03.19
 - [Docker Compose와 Traefik을 활용한 Blue/Green 배포 전략](https://blog.jh8459.com/2025-03-16-TIL/) - 2025.03.16
 - [프로그래머스 - 조이스틱 (JS)](https://blog.jh8459.com/2025-03-13-TIL/) - 2025.03.13
 - [프로그래머스 - 명예의 전당 (1) (JS)](https://blog.jh8459.com/2025-03-12-TIL/) - 2025.03.12
-- [LeetCode 876번 - Middle of the Linked List (JS)](https://blog.jh8459.com/2025-03-11-TIL/) - 2025.03.11
 <br>
 
 ---
