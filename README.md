@@ -31,14 +31,12 @@
 ## 🛠 &#160;Tech Stack 
 
 
-<img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <img alt="amazonaws" src ="https://img.shields.io/badge/aws-232F3E?&style=for-the-badge&logo=amazonwebservices&logoColor=white"/></center>
+- <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/> <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/>
+- <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white"/> <img alt="NestJS" src ="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white"/> <img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/> <img alt="TypeORM" src ="https://img.shields.io/badge/TypeORM-FE0803.svg?style=for-the-badge&logo=TypeORM&logoColor=white"/> <img alt="Prisma" src ="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white"/> <img alt="Jest" src ="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white"/>
+- <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/> <img alt="vite" src ="https://img.shields.io/badge/vite-646CFF.svg?&style=for-the-badge&logo=vite&logoColor=white"/> <img alt="tailwindcss" src ="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?&style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
+- <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/> <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-DD2C00.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
+- <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <img alt="amazonaws" src ="https://img.shields.io/badge/aws-232F3E?&style=for-the-badge&logo=amazonwebservices&logoColor=white"/></center>
 
-- 클린 코드 원칙을 준수하는 TypeScript 및 JavaScript 프로그래밍
-- NestJS / Express 프레임워크를 활용한 RESTful API 및 백엔드 아키텍처 설계 및 구현
-- 정규화 및 성능을 고려한 MySQL 데이터베이스 아키텍처 설계
-- Docker 기반의 컨테이너화된 개발 환경 구축 및 최적화
-- GitHub Actions를 활용한 효율적인 CI/CD 워크플로우 설계 및 운영
-- AWS 기반의 확장성과 신뢰성을 갖춘 클라우드 인프라 설계 및 구축
 
 ## 📚 &#160;Blog Posts
 
