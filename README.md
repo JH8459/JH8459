@@ -14,6 +14,8 @@
 <br>
 <br>
 
+## 💻 &#160;Algorithm Solving
+
 <div align="center">
   <div style="display: flex; justify-content: space-between; width: 100%;">
     <a href="https://blog.jh8459.com/2024-12-22-PROJECT" target="_blank">
@@ -24,8 +26,6 @@
     </a>
   </div>
 </div>
-
-<br>
 <br>
 
 ## 🛠 &#160;Tech Stack 
@@ -36,7 +36,7 @@
 - <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/> <img alt="vite" src ="https://img.shields.io/badge/vite-646CFF.svg?&style=for-the-badge&logo=vite&logoColor=white"/> <img alt="tailwindcss" src ="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?&style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
 - <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/> <img alt="Elasticsearch" src ="https://img.shields.io/badge/Elasticsearch-005571.svg?&style=for-the-badge&logo=Elasticsearch&logoColor=white"/> <img alt="Logstash" src ="https://img.shields.io/badge/Logstash-005571.svg?&style=for-the-badge&logo=Logstash&logoColor=white"/> <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-DD2C00.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
 - <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <img alt="AmazonAWS" src ="https://img.shields.io/badge/aws-232F3E?&style=for-the-badge&logo=amazonwebservices&logoColor=white"/> <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black"/>
-
+<br>
 
 ## 📚 &#160;Blog Posts
 
