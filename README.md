@@ -1,6 +1,6 @@
 ---
   
-<img src="https://github.com/JH8459/JH8459/blob/master/images/header.gif?raw=true"/>
+<img src="https://raw.githubusercontent.com/JH8459/JH8459/refs/heads/master/images/header.gif"/>
 
 <br>
 <br>
