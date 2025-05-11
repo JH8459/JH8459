@@ -87,6 +87,14 @@
 - [EC2에서 NAS로, 개인 서버 CI/CD 자동화](https://blog.jh8459.com/2025-03-31-PROJECT/) - 2025.03.31
 - [Nest CLI 뜯어보기 (nest start)](https://blog.jh8459.com/2025-03-19-TIL/) - 2025.03.19
 - [Docker Compose와 Traefik을 활용한 Blue/Green 배포 전략](https://blog.jh8459.com/2025-03-16-TIL/) - 2025.03.16
+
+## 📚 &#160;Blog Posts
+
+- [E2E 테스트 설계와 테스트 자동화](https://blog.jh8459.com/2025-04-29-PROJECT/) - 2025.04.29
+- [NestJS + TypeORM 트랜잭션을 다룰 때 반드시 피해야 할 패턴](https://blog.jh8459.com/2025-04-10-TIL/) - 2025.04.10
+- [EC2에서 NAS로, 개인 서버 CI/CD 자동화](https://blog.jh8459.com/2025-03-31-PROJECT/) - 2025.03.31
+- [Nest CLI 뜯어보기 (nest start)](https://blog.jh8459.com/2025-03-19-TIL/) - 2025.03.19
+- [Docker Compose와 Traefik을 활용한 Blue/Green 배포 전략](https://blog.jh8459.com/2025-03-16-TIL/) - 2025.03.16
 <br>
 
 ---
