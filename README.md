@@ -1,16 +1,6 @@
-<a href="https://github.com/JH8459"><img src="https://capsule-render.vercel.app/api?type=waving&color=6F777D&height=100&section=header&fontColor=FFFFFF&fontSize=25"/></a>
-
-<div align="center">
-<!--   <a href="https://github.com/JH8459"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJH8459&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>  -->
+---
   
-  ---
-  
-  <br>
-    
-  ### Node.js(NestJS / Express) 기반의 RESTful API 개발과<br>아키텍처 및 RDBMS 설계에 관심이 많습니다. 
-  ### React를 활용한 프론트엔드 개발 경험도 꾸준히 쌓아가며<br>더 넓은 영역에서의 문제 해결을 추구하고 있는 개발자입니다. 🤔
-  
-</div>
+<img src="https://github.com/JH8459/JH8459/blob/master/images/header.gif?raw=true"/>
 
 <br>
 <br>
@@ -79,5 +69,3 @@
 <br>
 
 ---
-
-<a href="https://github.com/JH8459"><img src="https://capsule-render.vercel.app/api?type=waving&color=6F777D&height=100&section=footer"/></a>
