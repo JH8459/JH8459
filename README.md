@@ -5,26 +5,33 @@
 <br>
 <br>
 
-## 💻 &#160;Algorithm Solving
+## ℹ️ Introduction
 
 <div align="center">
-  <div style="display: flex; justify-content: space-between; width: 100%;">
-    <a href="https://blog.jh8459.com/2024-12-22-PROJECT" target="_blank">
-      <img src="https://raw.githubusercontent.com/JH8459/PROGRAMMERS-BADGE/master/static/result.svg" style="width: 40%;"/>
-    </a>
-    <a href="https://solved.ac/profile/wjd5588" target="_blank">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjd5588" style="width: 40%;"/>
-    </a>
-  </div>
+  <a href="mailto:kk_ong2233@naver.com?subject=Hello%20JH!">
+    <img alt="Email" src ="https://img.shields.io/badge/Email-EA4335.svg?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://blog.jh8459.com" target="_blank">
+    <img alt="Blog" src ="https://img.shields.io/badge/Blog-000000.svg?style=flat&logo=Blogger&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/%EC%A0%95%ED%98%84-%EA%B9%80-8b7a80237/" target="_blank">
+    <img alt="LinkedIn" src ="https://img.shields.io/badge/LinkedIn-0071C5.svg?style=flat&logo=Inspire&logoColor=white"/>
+  </a>
 </div>
 <br>
 
-## 🛠 &#160;Tech Stack 
+<p align="center">
+  I'm a software engineer who loves the <strong>Node.js ecosystem</strong> and <strong>TypeScript</strong>.<br/>
+  I mainly develop RESTful APIs using <strong>NestJS</strong> and <strong>Express</strong>,<br/>
+  and build frontend applications based on <strong>React</strong>.
+</p>
+<br>
 
+## 🛠 Tech Stack
 
 <div align="center">
-  <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
-  <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/>
+  <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+  <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=Javascript&logoColor=black"/>
 </div>
   
 <div align="center">
@@ -59,7 +66,21 @@
 </div>
 <br>
 
-## 📚 &#160;Blog Posts
+## 💻 Algorithm Solving
+
+<div align="center">
+  <div>
+    <a href="https://blog.jh8459.com/2024-12-22-PROJECT" target="_blank">
+      <img src="https://raw.githubusercontent.com/JH8459/PROGRAMMERS-BADGE/master/static/result.svg" width="40%"/>
+    </a>
+    <a href="https://solved.ac/profile/wjd5588" target="_blank">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjd5588" width="40%"/>
+    </a>
+  </div>
+</div>
+<br>
+
+## 📚 Blog Posts
 
 - [E2E 테스트 설계와 테스트 자동화](https://blog.jh8459.com/2025-04-29-PROJECT/) - 2025.04.29
 - [NestJS + TypeORM 트랜잭션을 다룰 때 반드시 피해야 할 패턴](https://blog.jh8459.com/2025-04-10-TIL/) - 2025.04.10
