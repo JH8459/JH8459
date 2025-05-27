@@ -7,7 +7,7 @@ dotenv.config(); // .env 파일 로드
 const README_PATH = 'README.md';
 const RSS_FEED_URL = process.env.RSS_FEED_URL || 'https://blog.jh8459.com/rss';
 const SECTION_HEADER = process.env.SECTION_HEADER || '## 📚 Blog Posts';
-const INSERT_MARKER = process.env.INSERT_MARKER || '<br>\n\n---';
+const INSERT_MARKER = process.env.INSERT_MARKER || '---';
 
 // 날짜 변환 함수: EX "Fri, 17 Jan 2025 00:00:00 GMT" → "2025/01/17"
 function formatPubDate(pubDate) {
@@ -55,29 +55,48 @@ function readReadme(filePath) {
 
 // README.md 파일을 업데이트하는 함수
 function updateReadme(filePath, newPosts) {
-  if (!newPosts) return;
+  if (!newPosts) {
+    console.log('⚠️ 업데이트할 새로운 포스트가 없습니다.');
+    return;
+  }
 
   let content = readReadme(filePath);
 
-  if (content.includes(INSERT_MARKER)) {
-    const sectionRegex = new RegExp(`${SECTION_HEADER}[\\s\\S]*?(?=\n${INSERT_MARKER})`, 'm');
+  // SECTION_HEADER를 정규식에서 안전하게 사용하기 위해 이스케이프 처리
+  const escapedSectionHeader = SECTION_HEADER.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  // SECTION_HEADER부터 INSERT_MARKER(---)까지의 내용을 찾음
+  const sectionRegex = new RegExp(`(${escapedSectionHeader})[\\s\\S]*?(?=\\n${INSERT_MARKER})`, 'm');
 
-    if (content.match(sectionRegex)) {
-      // 기존 SECTION_HEADER가 존재하는 경우, 내용을 교체
-      content = content.replace(sectionRegex, `${SECTION_HEADER}\n\n${newPosts}`);
-    } else {
-      // SECTION_HEADER가 존재하지 않는 경우, 새롭게 추가
-      content = content.replace(INSERT_MARKER, `\n${SECTION_HEADER}\n\n${newPosts}\n${INSERT_MARKER}`);
-    }
+  const match = content.match(sectionRegex);
 
-    try {
-      writeFileSync(filePath, content, 'utf8');
-      console.log('✅ README.md 업데이트 완료');
-    } catch (error) {
-      console.error('README.md 파일을 저장하는 중 오류 발생:', error);
-    }
+  if (match) {
+    // 기존 Blog Posts 섹션이 존재하는 경우, 내용을 교체
+    const replacement = `${SECTION_HEADER}\n${newPosts}`;
+    content = content.replace(sectionRegex, replacement);
+
+    console.log('✅ 기존 Blog Posts 섹션을 업데이트합니다.');
   } else {
-    console.error('⚠️ README.md에서 삽입할 위치를 찾을 수 없습니다.');
+    // SECTION_HEADER가 존재하지 않는 경우, 새롭게 추가
+    if (content.includes(INSERT_MARKER)) {
+      // INSERT_MARKER(---)가 있는 경우, 그 앞에 섹션 추가
+      const replacement = `${SECTION_HEADER}\n${newPosts}\n${INSERT_MARKER}`;
+      content = content.replace(INSERT_MARKER, replacement);
+
+      console.log('✅ 새로운 Blog Posts 섹션을 추가합니다.');
+    } else {
+      // INSERT_MARKER도 없는 경우, 파일 끝에 추가
+      content += `\n${SECTION_HEADER}\n${newPosts}\n${INSERT_MARKER}`;
+
+      console.log('✅ 파일 끝에 Blog Posts 섹션과 구분선을 추가합니다.');
+    }
+  }
+
+  // 파일 저장
+  try {
+    writeFileSync(filePath, content, 'utf8');
+    console.log('✅ README.md 업데이트 완료');
+  } catch (error) {
+    console.error('❌ README.md 파일을 저장하는 중 오류 발생:', error);
   }
 }
 
