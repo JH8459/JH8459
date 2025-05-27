@@ -80,6 +80,10 @@
 </div>
 <br>
 
+## 💼 Career
+- [ACG](https://www.acghr.co.kr/) / B.E Developer [2022.04 ~ ]
+<br>
+
 ## 📚 Blog Posts
 - [Grafana + Prometheus + Loki 환경에서 Agents는 어떻게 설계해야 할까?](https://blog.jh8459.com/2025-05-20-TIL/) - 2025.05.20
 - [E2E 테스트 설계와 테스트 자동화](https://blog.jh8459.com/2025-04-29-PROJECT/) - 2025.04.29
