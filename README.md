@@ -14,7 +14,7 @@
   <a href="https://blog.jh8459.com" target="_blank">
     <img alt="Blog" src ="https://img.shields.io/badge/Blog-000000.svg?style=flat&logo=Blogger&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/%EC%A0%95%ED%98%84-%EA%B9%80-8b7a80237/" target="_blank">
+  <a href="https://www.linkedin.com/in/jh8459/" target="_blank">
     <img alt="LinkedIn" src ="https://img.shields.io/badge/LinkedIn-0071C5.svg?style=flat&logo=Inspire&logoColor=white"/>
   </a>
 </div>
