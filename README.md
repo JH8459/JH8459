@@ -81,7 +81,7 @@
 <br>
 
 ## 💼 Career
-- [ACG](https://www.acghr.co.kr/) / B.E Developer [2022.04 ~ ]
+- [ACG](https://www.acghr.co.kr/) / B.E Developer [2022.04 ~ 2025.06]
 <br>
 
 ## 📚 Blog Posts
