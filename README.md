@@ -66,6 +66,10 @@
 </div>
 <br>
 
+## 💼 Career
+- [ACG](https://www.acghr.co.kr/) / B.E Developer [2022.04 ~ 2025.06]
+<br>
+
 ## 💻 Algorithm Solving
 
 <div align="center">
@@ -78,10 +82,6 @@
     </a>
   </div>
 </div>
-<br>
-
-## 💼 Career
-- [ACG](https://www.acghr.co.kr/) / B.E Developer [2022.04 ~ 2025.06]
 <br>
 
 ## 📚 Blog Posts
