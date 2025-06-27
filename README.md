@@ -67,7 +67,8 @@
 <br>
 
 ## 💼 Career
-- [ACG](https://www.acghr.co.kr/) / B.E Developer [2022.04 ~ 2025.06]
+- [스마일드래곤(주)](https://www.smiledragon.co.kr/) / B.E Developer [2025.07 ~ ]
+- [(주)에이시지알](https://www.acghr.co.kr/) / B.E Developer [2022.04 ~ 2025.06]
 <br>
 
 ## 💻 Algorithm Solving
