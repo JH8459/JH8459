@@ -86,9 +86,9 @@
 <br>
 
 ## 📚 Blog Posts
+- [MariaDB ENUM 필드 수정시 상황별 퍼포먼스 차이](https://blog.jh8459.com/2025-08-06-TIL/) - 2025.08.06
 - [내부망 도메인 접속 실패 이유와 해결 방법](https://blog.jh8459.com/2025-06-30-TIL/) - 2025.06.30
 - [SQLD 취득 후기](https://blog.jh8459.com/2025-06-27-RETROSPECT/) - 2025.06.27
 - [Grafana + Prometheus + Loki 환경에서 Agents는 어떻게 설계해야 할까?](https://blog.jh8459.com/2025-05-20-TIL/) - 2025.05.20
 - [E2E 테스트 설계와 테스트 자동화](https://blog.jh8459.com/2025-04-29-PROJECT/) - 2025.04.29
-- [NestJS + TypeORM 트랜잭션을 다룰 때 반드시 피해야 할 패턴](https://blog.jh8459.com/2025-04-10-TIL/) - 2025.04.10
 ---
