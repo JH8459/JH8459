@@ -96,9 +96,9 @@
 <br>
 
 ## 📚 Blog Posts
+- [structuredClone() – Web Platform이 제공하는 표준 딥 클론](https://blog.jh8459.com/2025-11-16-WEB/) - 2025.11.16
 - [Object.groupBy / Map.groupBy (ES2024)](https://blog.jh8459.com/2025-11-08-JAVASCRIPT/) - 2025.11.08
 - [첫 오픈 소스 PR 기여 후기 (MikroORM Redis Cache Adapter)](https://blog.jh8459.com/2025-11-04-RETROSPECT/) - 2025.11.04
 - [VS Code × Codex 엔지니어링 가이드](https://blog.jh8459.com/2025-08-30-TIL/) - 2025.08.30
 - [MariaDB ENUM 필드 수정시 상황별 퍼포먼스 차이](https://blog.jh8459.com/2025-08-06-TIL/) - 2025.08.06
-- [내부망 도메인 접속 실패 이유와 해결 방법](https://blog.jh8459.com/2025-06-30-TIL/) - 2025.06.30
 ---
