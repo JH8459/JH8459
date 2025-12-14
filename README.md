@@ -23,7 +23,7 @@
 <p align="center">
   I'm a software engineer who loves the <strong>Node.js ecosystem</strong> and <strong>TypeScript</strong>.<br/>
   I mainly develop RESTful APIs using <strong>NestJS</strong>,<br/>
-  and build frontend applications based on <strong>React</strong>.
+  and build frontend applications based on <strong>NextJS</strong>.
 </p>
 <br>
 
