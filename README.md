@@ -1,6 +1,6 @@
 ---
   
-<img src="https://raw.githubusercontent.com/JH8459/JH8459/refs/heads/master/images/header.gif"/>
+<img src="https://jh8459.s3.ap-northeast-2.amazonaws.com/github/header_nextjs.gif"/>
 
 <br>
 <br>
@@ -55,6 +55,7 @@
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> 
   <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
   <img alt="Postgresql" src ="https://img.shields.io/badge/Postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="Kafka" src ="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
   <img alt="Elasticsearch" src ="https://img.shields.io/badge/Elasticsearch-005571.svg?&style=for-the-badge&logo=Elasticsearch&logoColor=white"/> 
   <img alt="Supabase" src ="https://img.shields.io/badge/Supabase-3FCF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white"/>
   <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-DD2C00.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/>
