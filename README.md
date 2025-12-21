@@ -96,9 +96,9 @@
 <br>
 
 ## 📚 Blog Posts
+- [NestJS Kafka emit(), 어디까지 성공했다고 말할 수 있을까?](https://blog.jh8459.com/2025-12-20-BACKEND/) - 2025.12.20
 - [첫 이직 후 회고](https://blog.jh8459.com/2025-12-08-RETROSPECT/) - 2025.12.08
 - [MikroORM v6.6 – 무엇이 달라졌나?](https://blog.jh8459.com/2025-12-01-BACKEND/) - 2025.12.01
 - [structuredClone() – Web Platform이 제공하는 표준 딥 클론](https://blog.jh8459.com/2025-11-16-WEB/) - 2025.11.16
 - [Object.groupBy / Map.groupBy (ES2024)](https://blog.jh8459.com/2025-11-08-JAVASCRIPT/) - 2025.11.08
-- [첫 오픈 소스 PR 기여 후기 (MikroORM Redis Cache Adapter)](https://blog.jh8459.com/2025-11-04-RETROSPECT/) - 2025.11.04
 ---
