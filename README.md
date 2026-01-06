@@ -96,9 +96,9 @@
 <br>
 
 ## 📚 Blog Posts
+- [이벤트 소싱을 적용하기 전에 반드시 고민해봤어야 할 것들](https://blog.jh8459.com/2026-01-06-BACKEND/) - 2026.01.06
 - [AI 시대에 다시 떠올리게 된 "장인 정신"이라는 기준](https://blog.jh8459.com/2026-01-04-BOOK/) - 2026.01.04
 - [NestJS Kafka emit(), 어디까지 성공했다고 말할 수 있을까?](https://blog.jh8459.com/2025-12-20-BACKEND/) - 2025.12.20
 - [첫 이직 후 회고](https://blog.jh8459.com/2025-12-08-RETROSPECT/) - 2025.12.08
 - [MikroORM v6.6 – 무엇이 달라졌나?](https://blog.jh8459.com/2025-12-01-BACKEND/) - 2025.12.01
-- [structuredClone() – Web Platform이 제공하는 표준 딥 클론](https://blog.jh8459.com/2025-11-16-WEB/) - 2025.11.16
 ---
