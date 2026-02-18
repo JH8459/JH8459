@@ -25,8 +25,10 @@
 <br>
 
 ## 💼 Career
-- [스마일드래곤(주)](https://www.smiledragon.co.kr/) / B.E Developer [2025.07 ~ ]
-- [(주)에이시지알](https://www.acghr.co.kr/) / B.E Developer [2022.04 ~ 2025.06]
+- [스마일드래곤(주)](https://www.smiledragon.co.kr/) / B.E Developer · `Full-time` [2025.07 – ]
+- [(주)에이시지알](https://www.acghr.co.kr/) / B.E Developer · `Full-time` [2022.04 – 2025.06]
+- [코드스테이츠](https://www.codestates.com/) / Career Mentor · `Freelance` [2023.03 – 2023.08]
+
 <br>
 
 ## 🛠 Tech Stack
