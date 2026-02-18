@@ -2,11 +2,6 @@
   
 <img src="https://jh8459.s3.ap-northeast-2.amazonaws.com/github/header_nextjs.gif"/>
 
-<br>
-<br>
-
-## ℹ️ Introduction
-
 <div align="center">
   <a href="mailto:kk_ong2233@naver.com?subject=Hello%20JH!">
     <img alt="Email" src ="https://img.shields.io/badge/Email-EA4335.svg?style=flat&logo=Gmail&logoColor=white"/>
