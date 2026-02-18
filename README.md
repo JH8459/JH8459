@@ -11,19 +11,21 @@
   <a href="mailto:kk_ong2233@naver.com?subject=Hello%20JH!">
     <img alt="Email" src ="https://img.shields.io/badge/Email-EA4335.svg?style=flat&logo=Gmail&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/jh8459/" target="_blank">
+    <img alt="LinkedIn" src ="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="https://blog.jh8459.com" target="_blank">
     <img alt="Blog" src ="https://img.shields.io/badge/Blog-000000.svg?style=flat&logo=Blogger&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/jh8459/" target="_blank">
-    <img alt="LinkedIn" src ="https://img.shields.io/badge/LinkedIn-0071C5.svg?style=flat&logo=Inspire&logoColor=white"/>
+  <a href="https://yozm.wishket.com/magazine/@JH8459/" target="_blank">
+    <img alt="YozmIT Author" src ="https://img.shields.io/badge/YozmIT-Author-111111.svg?style=flat&logo=readthedocs&logoColor=white"/>
   </a>
 </div>
-<br>
 
 <p align="center">
   I'm a software engineer who loves the <strong>Node.js ecosystem</strong> and <strong>TypeScript</strong>.<br/>
-  I mainly develop RESTful APIs using <strong>NestJS</strong>,<br/>
-  and build frontend applications based on <strong>NextJS</strong>.
+  I mainly build RESTful APIs with <strong>NestJS</strong>, and frontend apps with <strong>Next.js</strong>.<br/>
+  I also enjoy <strong>writing</strong> and <strong>sharing</strong> practical insights.
 </p>
 <br>
 
@@ -112,16 +114,16 @@
 <br/>
 
 <p align="center">
-  실무에서 마주친 복잡한 문제를 더 단순한 기준과 구조로 정리하는 데 관심이 많습니다.<br/>
-  또한 선택의 이유, 트레이드오프, 결과를 공유하여 독자가 자신의 상황에 맞는 판단 기준을 세우는 데 도움이 되길 바랍니다.<br/>
-  요즘IT에서 이러한 <strong>개발자 관점</strong>의 글을 씁니다.<br/>
+  I enjoy distilling complex problems into simple principles and a clear structure.<br/>
+  By sharing the reasoning, trade-offs, and outcomes behind decisions, I hope readers can build a framework that fits their context.<br/>
+  I write developer-focused articles on YozmIT.
 </p>
 
 <br/>
 
 | Date | Article | Summary |
 |---|---|---|
-| 2026.02.10 | [AI로 코드는 빨리 나오는데, 왜 출시는 그대로일까?](https://yozm.wishket.com/magazine/detail/3600/) | AI로 구현이 빨라질수록 병목이 검증·리뷰·승인으로 이동하는 이유와, 출시 완주율을 높이기 위한 기준을 정리 |
+| 2026.02.10 | [AI로 코드는 빨리 나오는데, 왜 출시는 그대로일까?](https://yozm.wishket.com/magazine/detail/3600/) | Explains why faster AI-assisted implementation shifts bottlenecks to validation, review, and approvals—and outlines criteria to improve release follow-through. |
 
 <br>
 
