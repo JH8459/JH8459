@@ -100,22 +100,6 @@
 
 ## ✍️ Writing
 
-<div align="center">
-  <a href="https://yozm.wishket.com/magazine/@JH8459/" target="_blank">
-    <img alt="yozmIT Author Profile" src="https://img.shields.io/badge/yozmIT-Author-000000?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-  </a>
-</div>
-
-<br/>
-
-<p align="center">
-  I enjoy distilling complex problems into simple principles and a clear structure.<br/>
-  By sharing the reasoning, trade-offs, and outcomes behind decisions, I hope readers can build a framework that fits their context.<br/>
-  I write developer-focused articles on YozmIT.
-</p>
-
-<br/>
-
 | Date | Article | Summary |
 |---|---|---|
 | 2026.02.10 | [AI로 코드는 빨리 나오는데, 왜 출시는 그대로일까?](https://yozm.wishket.com/magazine/detail/3600/) | Explains why faster AI-assisted implementation shifts bottlenecks to validation, review, and approvals—and outlines criteria to improve release follow-through. |
