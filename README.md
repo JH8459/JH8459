@@ -67,6 +67,12 @@
   <img alt="AmazonAWS" src ="https://img.shields.io/badge/aws-232F3E?&style=for-the-badge&logo=amazonwebservices&logoColor=white"/> 
   <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black"/>
 </div>
+
+<div align="center">
+  <img alt="Claude" src="https://img.shields.io/badge/Claude_Code-555555?style=for-the-badge&logo=claude&logoColor=orange"/>
+  <img alt="Codex" src="https://img.shields.io/badge/Codex-EAEAEA?style=for-the-badge&logo=openaigym&logoColor=black"/>
+  
+</div>
 <br>
 
 ## 💼 Career
@@ -93,6 +99,30 @@
     </a>
   </div>
 </div>
+<br>
+
+## ✍️ Writing
+
+<div align="center">
+  <a href="https://yozm.wishket.com/magazine/@JH8459/" target="_blank">
+    <img alt="yozmIT Author Profile" src="https://img.shields.io/badge/yozmIT-Author-000000?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
+</div>
+
+<br/>
+
+<p align="center">
+  실무에서 마주친 복잡한 문제를 더 단순한 기준과 구조로 정리하는 데 관심이 많습니다.<br/>
+  또한 선택의 이유, 트레이드오프, 결과를 공유하여 독자가 자신의 상황에 맞는 판단 기준을 세우는 데 도움이 되길 바랍니다.<br/>
+  요즘IT에서 이러한 <strong>개발자 관점</strong>의 글을 씁니다.<br/>
+</p>
+
+<br/>
+
+| Date | Article | Summary |
+|---|---|---|
+| 2026.02.10 | [AI로 코드는 빨리 나오는데, 왜 출시는 그대로일까?](https://yozm.wishket.com/magazine/detail/3600/) | AI로 구현이 빨라질수록 병목이 검증·리뷰·승인으로 이동하는 이유와, 출시 완주율을 높이기 위한 기준을 정리 |
+
 <br>
 
 ## 📚 Blog Posts
