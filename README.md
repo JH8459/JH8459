@@ -29,6 +29,11 @@
 </p>
 <br>
 
+## 💼 Career
+- [스마일드래곤(주)](https://www.smiledragon.co.kr/) / B.E Developer [2025.07 ~ ]
+- [(주)에이시지알](https://www.acghr.co.kr/) / B.E Developer [2022.04 ~ 2025.06]
+<br>
+
 ## 🛠 Tech Stack
 
 <div align="center">
@@ -77,18 +82,6 @@
 </div>
 <br>
 
-## 💼 Career
-- [스마일드래곤(주)](https://www.smiledragon.co.kr/) / B.E Developer [2025.07 ~ ]
-- [(주)에이시지알](https://www.acghr.co.kr/) / B.E Developer [2022.04 ~ 2025.06]
-<br>
-
-## 🌍 Open Source Contributions
-
-| Repository | Contribution | Description |
-|-------------|---------------|--------------|
-| [mikro-orm-cache-adapter-redis](https://github.com/ramiel/mikro-orm-cache-adapter-redis) | [refactor(clear): simplify clear() with async iterator + pipeline #10](https://github.com/ramiel/mikro-orm-cache-adapter-redis/pull/10) | Refactored the `clear()` method by replacing mixed Promise and callback logic with a modern `for await...of` async iterator, improving readability and maintainability without altering behavior. Preserved the batched `pipeline.del()` deletion flow while aligning with modern Node.js async I/O patterns. |
-<br>
-
 ## 💻 Algorithm Solving
 
 <div align="center">
@@ -101,6 +94,13 @@
     </a>
   </div>
 </div>
+<br>
+
+## 🌍 Open Source Contributions
+
+| Repository | Contribution | Description |
+|-------------|---------------|--------------|
+| [mikro-orm-cache-adapter-redis](https://github.com/ramiel/mikro-orm-cache-adapter-redis) | [refactor(clear): simplify clear() with async iterator + pipeline #10](https://github.com/ramiel/mikro-orm-cache-adapter-redis/pull/10) | Refactored the `clear()` method by replacing mixed Promise and callback logic with a modern `for await...of` async iterator, improving readability and maintainability without altering behavior. Preserved the batched `pipeline.del()` deletion flow while aligning with modern Node.js async I/O patterns. |
 <br>
 
 ## ✍️ Writing
