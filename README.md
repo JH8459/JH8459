@@ -104,7 +104,8 @@
 
 | Date | Article | Summary |
 |---|---|---|
-| 2026.02.10 | [AI로 코드는 빨리 나오는데, 왜 출시는 그대로일까?](https://yozm.wishket.com/magazine/detail/3600/) | Explains why faster AI-assisted implementation shifts bottlenecks to validation, review, and approvals—and outlines criteria to improve release follow-through. |
+| 2026.02.25 | [AI로 빨리 만드는 팀보다 '덜 흔들리는' 팀이 이기는 이유](https://yozm.wishket.com/magazine/detail/3625/) | Argues that in the vibe-coding era, teams win on decision quality not coding speed and introduces four questions to make AI outputs reviewable and approval ready. |
+| 2026.02.10 | [AI로 코드는 빨리 나오는데, 왜 출시는 그대로일까?](https://yozm.wishket.com/magazine/detail/3600/) | Explains why faster AI-assisted implementation shifts bottlenecks to validation, review, and approvals and outlines criteria to improve release follow through. |
 
 <br>
 
