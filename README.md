@@ -85,7 +85,7 @@
 <div align="center">
   <div>
     <a href="https://blog.jh8459.com/2024-12-22-PROJECT" target="_blank">
-      <img src="https://raw.githubusercontent.com/JH8459/PROGRAMMERS-BADGE/master/static/result.svg" width="40%"/>
+      <img src="https://programmers-badge.jh8459.com/badge/9b62e8684e27.svg" width="40%"/>
     </a>
     <a href="https://solved.ac/profile/wjd5588" target="_blank">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjd5588" width="40%"/>
