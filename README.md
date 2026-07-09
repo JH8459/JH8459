@@ -105,6 +105,7 @@
 
 | Date | Article | Summary |
 |---|---|---|
+| 2026.07.08 | [이벤트 기반 MSA, AI 시대엔 더 비싸진다고요?](https://yozm.wishket.com/magazine/detail/3839/) | Argues that in the AI era, event-driven MSA does not become cheaper simply because code changes are faster; the real cost shifts to tracing event flows, preserving service contracts, and giving both humans and AI shared validation criteria. |
 | 2026.03.23 | [cURL은 왜 버그 바운티를 끝냈을까?](https://yozm.wishket.com/magazine/detail/3668/) | Examines why cURL ended its bug bounty program and argues that in the AI era, the real bottleneck is not finding more issues, but preserving scarce human review capacity. |
 | 2026.02.25 | [AI로 빨리 만드는 팀보다 '덜 흔들리는' 팀이 이기는 이유](https://yozm.wishket.com/magazine/detail/3625/) | Argues that in the vibe-coding era, teams win on decision quality not coding speed and introduces four questions to make AI outputs reviewable and approval ready. |
 | 2026.02.10 | [AI로 코드는 빨리 나오는데, 왜 출시는 그대로일까?](https://yozm.wishket.com/magazine/detail/3600/) | Explains why faster AI-assisted implementation shifts bottlenecks to validation, review, and approvals and outlines criteria to improve release follow through. |
