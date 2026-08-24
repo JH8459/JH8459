@@ -26,7 +26,7 @@
 
 ## 💼 Career
 - [스마일드래곤(주)](https://www.smiledragon.co.kr/) / B.E Developer · `Full-time` [2025.07 – ]
-- [코드잇](https://sprint-page.codeit.kr/career_program) / Career Mentor · `Freelance` [2026.03 – 2026.05]
+- [코드잇](https://sprint-page.codeit.kr/career_program) / Career Mentor · `Freelance` [2026.03 – ]
 - [(주)에이시지알](https://www.acghr.co.kr/) / B.E Developer · `Full-time` [2022.04 – 2025.06]
 - [코드스테이츠](https://www.codestates.com/) / Career Mentor · `Freelance` [2023.03 – 2023.08]
 
