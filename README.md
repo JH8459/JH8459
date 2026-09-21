@@ -98,6 +98,7 @@
 
 | Repository | Contribution | Description |
 |-------------|---------------|--------------|
+| [mikro-orm](https://github.com/mikro-orm/mikro-orm) | [Issue: Joined populate throws when embedded property has the same name as its column #8292](https://github.com/mikro-orm/mikro-orm/issues/8292) | Found and reported a v6 → v7 regression where loading a single-property embeddable through a joined populate fails when the embedded property name matches its column name. Provided a minimal reproduction comparing v6.6.16 and v7 (including `next`) on SQLite and MariaDB, and narrowed the failure down to the joined load path. |
 | [mikro-orm-cache-adapter-redis](https://github.com/ramiel/mikro-orm-cache-adapter-redis) | [refactor(clear): simplify clear() with async iterator + pipeline #10](https://github.com/ramiel/mikro-orm-cache-adapter-redis/pull/10) | Refactored the `clear()` method by replacing mixed Promise and callback logic with a modern `for await...of` async iterator, improving readability and maintainability without altering behavior. Preserved the batched `pipeline.del()` deletion flow while aligning with modern Node.js async I/O patterns. |
 <br>
 
