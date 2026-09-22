@@ -114,9 +114,9 @@
 <br>
 
 ## 📚 Blog Posts
+- [좋은 이슈 리포트는 어떻게 만들어지는가](https://blog.jh8459.com/2026-09-22-BACKEND/) - 2026.09.22
 - [조용히 비어버린 값 하나에서 시작한 ORM 메이저 업그레이드 검증 전략](https://blog.jh8459.com/2026-09-18-BACKEND/) - 2026.09.18
 - [53분짜리 크론 하나에서 시작한 배포 종료 설계](https://blog.jh8459.com/2026-09-08-BACKEND/) - 2026.09.08
 - [복합 인덱스는 언제 필요할까?](https://blog.jh8459.com/2026-08-09-BACKEND/) - 2026.08.09
 - [Conductor에서 Supersets로 정착한 이유](https://blog.jh8459.com/2026-06-21-AI/) - 2026.06.21
-- [Map에 드디어 생긴 getOrInsert: “없으면 넣고, 있으면 꺼내기”](https://blog.jh8459.com/2026-02-15-JAVASCRIPT/) - 2026.02.15
 ---
