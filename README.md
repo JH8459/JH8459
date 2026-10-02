@@ -96,20 +96,27 @@
 
 ## 🌍 Open Source Contributions
 
-| Repository | Contribution | Description |
-|-------------|---------------|--------------|
-| [mikro-orm](https://github.com/mikro-orm/mikro-orm) | [Issue: Joined populate throws when embedded property has the same name as its column #8292](https://github.com/mikro-orm/mikro-orm/issues/8292) | Found and reported a v6 → v7 regression where loading a single-property embeddable through a joined populate fails when the embedded property name matches its column name. Provided a minimal reproduction comparing v6.6.16 and v7 (including `next`) on SQLite and MariaDB, and narrowed the failure down to the joined load path. |
-| [mikro-orm-cache-adapter-redis](https://github.com/ramiel/mikro-orm-cache-adapter-redis) | [refactor(clear): simplify clear() with async iterator + pipeline #10](https://github.com/ramiel/mikro-orm-cache-adapter-redis/pull/10) | Refactored the `clear()` method by replacing mixed Promise and callback logic with a modern `for await...of` async iterator, improving readability and maintainability without altering behavior. Preserved the batched `pipeline.del()` deletion flow while aligning with modern Node.js async I/O patterns. |
+Reporting regressions with minimal reproductions and sending fixes upstream in the **Node.js backend ecosystem**.
+
+| Repository | Contribution | Link&nbsp;&amp;&nbsp;Status |
+|:---|:---|:---:|
+| **[forwardemail/supertest](https://github.com/forwardemail/supertest)**<br/><img alt="stars" src="https://img.shields.io/github/stars/forwardemail/supertest?style=flat-square&logo=github&label=stars&color=555555"/> | **🐛 Regression report + fix (7.3.0)**<br/>On macOS, test requests could land on another local process: the ephemeral server binds the wildcard address while the client connects to `127.0.0.1`. Filed a plain-`http` reproduction and a PR that binds the server to the loopback address it connects to. | [**Issue&nbsp;#906**](https://github.com/forwardemail/supertest/issues/906)<br/><img alt="issue state" src="https://img.shields.io/github/issues/detail/state/forwardemail/supertest/906?style=flat-square&label="/><br/>[**PR&nbsp;#907**](https://github.com/forwardemail/supertest/pull/907)<br/><img alt="pull request state" src="https://img.shields.io/github/pulls/detail/state/forwardemail/supertest/907?style=flat-square&label="/> |
+| **[mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)**<br/><img alt="stars" src="https://img.shields.io/github/stars/mikro-orm/mikro-orm?style=flat-square&logo=github&label=stars&color=555555"/> | **🐛 v6 → v7 regression report**<br/>Joined populate threw when a single-property embeddable shared its name with its column. Provided a minimal reproduction across v6.6.16, v7 and `next` on SQLite and MariaDB; fixed upstream within a day in [#8293](https://github.com/mikro-orm/mikro-orm/pull/8293). | [**Issue&nbsp;#8292**](https://github.com/mikro-orm/mikro-orm/issues/8292)<br/><img alt="fixed" src="https://img.shields.io/badge/fixed-8957e5?style=flat-square"/> |
+| **[ramiel/mikro-orm-cache-adapter-redis](https://github.com/ramiel/mikro-orm-cache-adapter-redis)**<br/><img alt="stars" src="https://img.shields.io/github/stars/ramiel/mikro-orm-cache-adapter-redis?style=flat-square&logo=github&label=stars&color=555555"/> | **♻️ `clear()` refactor**<br/>Replaced mixed Promise and callback logic with a `for await...of` async iterator, keeping the batched `pipeline.del()` flow and the behavior unchanged. | [**PR&nbsp;#10**](https://github.com/ramiel/mikro-orm-cache-adapter-redis/pull/10)<br/><img alt="merged" src="https://img.shields.io/badge/merged-8957e5?style=flat-square"/> |
+
 <br>
 
 ## ✍️ Writing
 
-| Date | Article | Summary |
-|---|---|---|
-| 2026.07.08 | [이벤트 기반 MSA, AI 시대엔 더 비싸진다고요?](https://yozm.wishket.com/magazine/detail/3839/) | Argues that in the AI era, event-driven MSA does not become cheaper simply because code changes are faster; the real cost shifts to tracing event flows, preserving service contracts, and giving both humans and AI shared validation criteria. |
-| 2026.03.23 | [cURL은 왜 버그 바운티를 끝냈을까?](https://yozm.wishket.com/magazine/detail/3668/) | Examines why cURL ended its bug bounty program and argues that in the AI era, the real bottleneck is not finding more issues, but preserving scarce human review capacity. |
-| 2026.02.25 | [AI로 빨리 만드는 팀보다 '덜 흔들리는' 팀이 이기는 이유](https://yozm.wishket.com/magazine/detail/3625/) | Argues that in the vibe-coding era, teams win on decision quality not coding speed and introduces four questions to make AI outputs reviewable and approval ready. |
-| 2026.02.10 | [AI로 코드는 빨리 나오는데, 왜 출시는 그대로일까?](https://yozm.wishket.com/magazine/detail/3600/) | Explains why faster AI-assisted implementation shifts bottlenecks to validation, review, and approvals and outlines criteria to improve release follow through. |
+Contributing author at **[요즘IT](https://yozm.wishket.com/magazine/@JH8459/)**, writing about how backend teams build, review, and ship software in the AI era.
+
+| Date | Article |
+|:---:|:---|
+| `2026.10.01` | **[하위 호환성은 언제까지 유지해야 할까?](https://yozm.wishket.com/magazine/detail/3972/)**<br/><sub>How long to keep backward compatibility across APIs, events, and DBs, via expand → migrate → contract.</sub> |
+| `2026.07.08` | **[이벤트 기반 MSA, AI 시대엔 더 비싸진다고요?](https://yozm.wishket.com/magazine/detail/3839/)**<br/><sub>Faster code changes don't make event-driven MSA cheaper; the cost shifts to tracing event flows and contracts.</sub> |
+| `2026.03.23` | **[cURL은 왜 버그 바운티를 끝냈을까?](https://yozm.wishket.com/magazine/detail/3668/)**<br/><sub>Why cURL ended its bug bounty: the bottleneck is no longer finding issues, but scarce human review capacity.</sub> |
+| `2026.02.25` | **[AI로 빨리 만드는 팀보다 '덜 흔들리는' 팀이 이기는 이유](https://yozm.wishket.com/magazine/detail/3625/)**<br/><sub>In the vibe-coding era, teams win on decision quality, not coding speed: four questions that make AI output reviewable.</sub> |
+| `2026.02.10` | **[AI로 코드는 빨리 나오는데, 왜 출시는 그대로일까?](https://yozm.wishket.com/magazine/detail/3600/)**<br/><sub>AI speeds up implementation, so the bottleneck moves to validation, review, and approval before release.</sub> |
 
 <br>
 
