@@ -121,9 +121,9 @@ Contributing author at **[요즘IT](https://yozm.wishket.com/magazine/@JH8459/)*
 <br>
 
 ## 📚 Blog Posts
+- [SigNoz MCP로 로컬 세션에 운영 모니터링 스킬을 붙이고 다듬은 기록](https://blog.jh8459.com/2026-10-13-AI/) - 2026.10.13
 - [좋은 이슈 리포트는 어떻게 만들어지는가](https://blog.jh8459.com/2026-09-22-BACKEND/) - 2026.09.22
 - [조용히 비어버린 값 하나에서 시작한 ORM 메이저 업그레이드 검증 전략](https://blog.jh8459.com/2026-09-18-BACKEND/) - 2026.09.18
 - [53분짜리 크론 하나에서 시작한 배포 종료 설계](https://blog.jh8459.com/2026-09-08-BACKEND/) - 2026.09.08
 - [복합 인덱스는 언제 필요할까?](https://blog.jh8459.com/2026-08-09-BACKEND/) - 2026.08.09
-- [Conductor에서 Supersets로 정착한 이유](https://blog.jh8459.com/2026-06-21-AI/) - 2026.06.21
 ---
