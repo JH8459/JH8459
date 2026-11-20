@@ -34,13 +34,13 @@
 
 ## 🛠 Tech Stack
 
-- **Language**<br/><img alt="Language" height="36" src="https://skills.syvixor.com/api/icons?i=ts,js,nodejs"/>
-- **Backend**<br/><img alt="Backend" height="36" src="https://skills.syvixor.com/api/icons?i=nestjs,express,typeorm,prisma,jest"/>
-- **Data**<br/><img alt="Data" height="36" src="https://skills.syvixor.com/api/icons?i=mysql,postgresql,redis,kafka,elasticsearch"/>
-- **DevOps**<br/><img alt="DevOps" height="36" src="https://skills.syvixor.com/api/icons?i=docker,kubernetes,helm,argocd,githubactions,aws,git,linux,opentelemetry,signoz"/>
-- **Frontend**<br/><img alt="Frontend" height="36" src="https://skills.syvixor.com/api/icons?i=nextjs,react,vite,tailwind,supabase,firebase"/>
-- **AI**<br/><img alt="AI" height="36" src="https://skills.syvixor.com/api/icons?i=claudecode,codex,mcp"/>
-
+<p align="center">
+  <img alt="Main stack" height="48" src="https://skills.syvixor.com/api/icons?i=ts,nodejs,nestjs,mysql,kafka,docker,kubernetes,argocd,claudecode"/>
+  <br/><br/>
+  <sub>ALSO WORKED WITH</sub>
+  <br/>
+  <img alt="Also worked with" height="62" src="https://skills.syvixor.com/api/icons?i=js,express,typeorm,prisma,jest,postgresql,redis,elasticsearch,helm,githubactions,aws,git,opentelemetry,signoz,nextjs,react,vite,tailwind,supabase,firebase,codex,mcp&perline=11"/>
+</p>
 <br>
 
 ## 💻 Algorithm Solving
