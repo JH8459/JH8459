@@ -38,7 +38,7 @@
   <img alt="Main stack" height="48" src="https://skills.syvixor.com/api/icons?i=ts,nodejs,nestjs,mysql,kafka,docker,kubernetes,argocd,claudecode"/>
   <br/><br/>
   <sub>ALSO WORKED WITH</sub>
-  <br/>
+  <br/><br/>
   <img alt="Also worked with" height="62" src="https://skills.syvixor.com/api/icons?i=js,express,typeorm,prisma,jest,postgresql,redis,elasticsearch,helm,githubactions,aws,git,opentelemetry,signoz,nextjs,react,vite,tailwind,supabase,firebase,codex,mcp&perline=11"/>
 </p>
 <br>
