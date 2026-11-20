@@ -122,13 +122,11 @@ Reporting regressions with minimal reproductions and sending fixes upstream in t
 
 Contributing author at **[요즘IT](https://yozm.wishket.com/magazine/@JH8459/)**, writing about how backend teams build, review, and ship software in the AI era.
 
-| Date | Article |
-|:---:|:---|
-| `2026.10.01` | **[하위 호환성은 언제까지 유지해야 할까?](https://yozm.wishket.com/magazine/detail/3972/)**<br/><sub>How long to keep backward compatibility across APIs, events, and DBs, via expand → migrate → contract.</sub> |
-| `2026.07.08` | **[이벤트 기반 MSA, AI 시대엔 더 비싸진다고요?](https://yozm.wishket.com/magazine/detail/3839/)**<br/><sub>Faster code changes don't make event-driven MSA cheaper; the cost shifts to tracing event flows and contracts.</sub> |
-| `2026.03.23` | **[cURL은 왜 버그 바운티를 끝냈을까?](https://yozm.wishket.com/magazine/detail/3668/)**<br/><sub>Why cURL ended its bug bounty: the bottleneck is no longer finding issues, but scarce human review capacity.</sub> |
-| `2026.02.25` | **[AI로 빨리 만드는 팀보다 '덜 흔들리는' 팀이 이기는 이유](https://yozm.wishket.com/magazine/detail/3625/)**<br/><sub>In the vibe-coding era, teams win on decision quality, not coding speed: four questions that make AI output reviewable.</sub> |
-| `2026.02.10` | **[AI로 코드는 빨리 나오는데, 왜 출시는 그대로일까?](https://yozm.wishket.com/magazine/detail/3600/)**<br/><sub>AI speeds up implementation, so the bottleneck moves to validation, review, and approval before release.</sub> |
+- [하위 호환성은 언제까지 유지해야 할까?](https://yozm.wishket.com/magazine/detail/3972/) - 2026.10.01
+- [이벤트 기반 MSA, AI 시대엔 더 비싸진다고요?](https://yozm.wishket.com/magazine/detail/3839/) - 2026.07.08
+- [cURL은 왜 버그 바운티를 끝냈을까?](https://yozm.wishket.com/magazine/detail/3668/) - 2026.03.23
+- [AI로 빨리 만드는 팀보다 '덜 흔들리는' 팀이 이기는 이유](https://yozm.wishket.com/magazine/detail/3625/) - 2026.02.25
+- [AI로 코드는 빨리 나오는데, 왜 출시는 그대로일까?](https://yozm.wishket.com/magazine/detail/3600/) - 2026.02.10
 
 <br>
 
