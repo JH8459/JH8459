@@ -34,38 +34,13 @@
 
 ## 🛠 Tech Stack
 
-<table align="center">
-  <tr>
-    <td valign="top">
-      <b>Language</b><br/>
-      <img alt="Language" src="https://skills.syvixor.com/api/icons?i=ts,js,nodejs"/>
-    </td>
-    <td valign="top">
-      <b>Backend</b><br/>
-      <img alt="Backend" src="https://skills.syvixor.com/api/icons?i=nestjs,express,typeorm,prisma,jest"/>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <b>Data</b><br/>
-      <img alt="Data" src="https://skills.syvixor.com/api/icons?i=mysql,postgresql,redis,kafka,elasticsearch&perline=3"/>
-    </td>
-    <td valign="top">
-      <b>DevOps</b><br/>
-      <img alt="DevOps" src="https://skills.syvixor.com/api/icons?i=docker,kubernetes,helm,argocd,githubactions,aws,git,linux,opentelemetry,signoz&perline=5"/>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <b>Frontend</b><br/>
-      <img alt="Frontend" src="https://skills.syvixor.com/api/icons?i=nextjs,react,vite,tailwind,supabase,firebase&perline=3"/>
-    </td>
-    <td valign="top">
-      <b>AI</b><br/>
-      <img alt="AI" src="https://skills.syvixor.com/api/icons?i=claudecode,codex,mcp"/>
-    </td>
-  </tr>
-</table>
+- **Language**<br/><img alt="Language" height="36" src="https://skills.syvixor.com/api/icons?i=ts,js,nodejs"/>
+- **Backend**<br/><img alt="Backend" height="36" src="https://skills.syvixor.com/api/icons?i=nestjs,express,typeorm,prisma,jest"/>
+- **Data**<br/><img alt="Data" height="36" src="https://skills.syvixor.com/api/icons?i=mysql,postgresql,redis,kafka,elasticsearch"/>
+- **DevOps**<br/><img alt="DevOps" height="36" src="https://skills.syvixor.com/api/icons?i=docker,kubernetes,helm,argocd,githubactions,aws,git,linux,opentelemetry,signoz"/>
+- **Frontend**<br/><img alt="Frontend" height="36" src="https://skills.syvixor.com/api/icons?i=nextjs,react,vite,tailwind,supabase,firebase"/>
+- **AI**<br/><img alt="AI" height="36" src="https://skills.syvixor.com/api/icons?i=claudecode,codex,mcp"/>
+
 <br>
 
 ## 💻 Algorithm Solving
