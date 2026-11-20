@@ -8,6 +8,8 @@ const README_PATH = 'README.md';
 const RSS_FEED_URL = process.env.RSS_FEED_URL || 'https://blog.jh8459.com/rss';
 const SECTION_HEADER = process.env.SECTION_HEADER || '## 📚 Blog Posts';
 const INSERT_MARKER = process.env.INSERT_MARKER || '---';
+const SECTION_SUBTITLE =
+  'Longer write-ups on **[my blog](https://blog.jh8459.com)** about architecture decisions, event-driven systems, observability, and knowledge sharing.';
 
 // 날짜 변환 함수: EX "Fri, 17 Jan 2025 00:00:00 GMT" → "2025/01/17"
 function formatPubDate(pubDate) {
@@ -71,7 +73,7 @@ function updateReadme(filePath, newPosts) {
 
   if (match) {
     // 기존 Blog Posts 섹션이 존재하는 경우, 내용을 교체
-    const replacement = `${SECTION_HEADER}\n${newPosts}`;
+    const replacement = `${SECTION_HEADER}\n\n${SECTION_SUBTITLE}\n\n${newPosts}`;
     content = content.replace(sectionRegex, replacement);
 
     console.log('✅ 기존 Blog Posts 섹션을 업데이트합니다.');
@@ -79,13 +81,13 @@ function updateReadme(filePath, newPosts) {
     // SECTION_HEADER가 존재하지 않는 경우, 새롭게 추가
     if (content.includes(INSERT_MARKER)) {
       // INSERT_MARKER(---)가 있는 경우, 그 앞에 섹션 추가
-      const replacement = `${SECTION_HEADER}\n${newPosts}\n${INSERT_MARKER}`;
+      const replacement = `${SECTION_HEADER}\n\n${SECTION_SUBTITLE}\n\n${newPosts}\n${INSERT_MARKER}`;
       content = content.replace(INSERT_MARKER, replacement);
 
       console.log('✅ 새로운 Blog Posts 섹션을 추가합니다.');
     } else {
       // INSERT_MARKER도 없는 경우, 파일 끝에 추가
-      content += `\n${SECTION_HEADER}\n${newPosts}\n${INSERT_MARKER}`;
+      content += `\n${SECTION_HEADER}\n\n${SECTION_SUBTITLE}\n\n${newPosts}\n${INSERT_MARKER}`;
 
       console.log('✅ 파일 끝에 Blog Posts 섹션과 구분선을 추가합니다.');
     }
