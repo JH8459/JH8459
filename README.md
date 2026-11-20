@@ -68,6 +68,7 @@ Reporting regressions with minimal reproductions and sending fixes upstream in t
   - **[Joined populate throws when an embedded property shares its column name](https://github.com/mikro-orm/mikro-orm/issues/8292)** <img alt="fixed" src="https://img.shields.io/badge/fixed-8957e5?style=flat-square"/>
 - **`opentelemetry-js-contrib`** <img alt="stars" src="https://img.shields.io/github/stars/open-telemetry/opentelemetry-js-contrib?style=flat-square&logo=github&label=stars&color=555555"/>
   - **[Mark layer handles wrapped by instrumentation-express](https://github.com/open-telemetry/opentelemetry-js-contrib/pull/3882)** <img alt="state" src="https://img.shields.io/github/pulls/detail/state/open-telemetry/opentelemetry-js-contrib/3882?style=flat-square&label="/>
+  - **[NestJS handler span kept query values that instrumentation-http redacts](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/3866)** <img alt="fixed" src="https://img.shields.io/badge/fixed-8957e5?style=flat-square"/>
 - **`serena`** <img alt="stars" src="https://img.shields.io/github/stars/oraios/serena?style=flat-square&logo=github&label=stars&color=555555"/>
   - **[Wait for cross-file readiness before sending rename requests](https://github.com/oraios/serena/pull/2254)** <img alt="state" src="https://img.shields.io/github/pulls/detail/state/oraios/serena/2254?style=flat-square&label="/>
 - **`opentelemetry-js`** <img alt="stars" src="https://img.shields.io/github/stars/open-telemetry/opentelemetry-js?style=flat-square&logo=github&label=stars&color=555555"/>
