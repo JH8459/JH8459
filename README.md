@@ -35,7 +35,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img alt="Main stack" height="48" src="https://skills.syvixor.com/api/icons?i=ts,nodejs,nestjs,mysql,kafka,docker,kubernetes,argocd,claudecode"/>
+  <img alt="Main stack" height="48" src="https://skills.syvixor.com/api/icons?i=ts,nodejs,nestjs,mikroorm,mysql,kafka,docker,kubernetes,argocd,claudecode"/>
   <br/><br/>
   <sub>ALSO WORKED WITH</sub>
   <br/><br/>
